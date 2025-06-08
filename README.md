@@ -1,3 +1,5 @@
+![Portfolio 10](public/ss_15.png)
+
 # Portfolio Website Profesional
 
 Website portfolio modern dan responsif yang dibangun dengan React, TypeScript, dan Tailwind CSS.
